@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Python, Node.js & Java
 - 🌱 I’m currently learning Node.js & MongoDB
 - 👯 I’m looking to collaborate on Python & Java based projects.
-- 💬 Ask me about Nothing XD.
+- 💬 Ask me <s>about</s> Nothing XD.
 - 📫 How to reach me: Unreachable 
 
 

@@ -8,8 +8,8 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Python, Node.js & Java
 - 🌱 I’m currently learning Node.js & MongoDB
 - 👯 I’m looking to collaborate on Python & Java based projects.
-- 💬 Ask me <s>about</s> Nothing XD.
-- 📫 How to reach me: Unreachable 
+- 💬 Ask me about Games & War Documentaries.
+- 📫 How to reach me via mail 
 
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshk007&show_icons=true&theme=radical)

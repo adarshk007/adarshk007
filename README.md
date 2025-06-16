@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started: -->
 - 👨 Myself Adarsh Kumar Choudhary
-- 🔭 I’m currently working on Python, Node.js & Java
-- 🌱 I’m currently learning graphQL & Kafka
-- 👯 I’m looking to collaborate on Python & Java based projects.
+- 🔭 I’m currently working on Python, Nest & Go
+- 🌱 I’m currently learning graphQL & Kafka, DynamoDB 
+- 👯 I’m looking to collaborate on Python & Go based projects.
 - 💬 Ask me about Games & War Documentaries.
 - 📫 How to reach me via mail 
 
